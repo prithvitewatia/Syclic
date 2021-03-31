@@ -2,14 +2,14 @@
 Syclic is a small command line calculator.
 The operations supported are:  
 **+**: Addition  
-**-**: Subtraction
+**-**: Subtraction  
 **\***: Multiplication  
 **/**: Division  
 **^^**: Exponentiation
 
 ### Installation
 -**Building from source**
-1. Clone the repository 
+1. Clone the repository  
 ```git clone https://github.com/prithvitewatia/Syclic```
 2. cd into the repository  
 3. Run the make command  
